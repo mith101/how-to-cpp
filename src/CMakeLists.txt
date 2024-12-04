@@ -1,0 +1,6 @@
+add_subdirectory(version_0)
+add_subdirectory(version_1)
+add_subdirectory(version_2)
+add_subdirectory(version_3)
+add_subdirectory(version_4)
+add_subdirectory(version_5)
